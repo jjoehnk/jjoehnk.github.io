@@ -441,6 +441,10 @@ a:focus {
     background-color: {{ site.color.links }};
 }
 
+ul {
+  list-style: none;
+}
+
 ul.banner-social-buttons {
     margin-top: 0;
 }
