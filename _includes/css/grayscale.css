@@ -232,7 +232,7 @@ a:focus {
 
 /* Flexbox projects Grid */
 @media (min-width: 640px) {
-    .projects-flex-grid .pprojects-flex-row {
+    .projects-flex-grid .projects-flex-row {
       display: flex;
       flex-flow: row wrap;
       align-items: stretch;
