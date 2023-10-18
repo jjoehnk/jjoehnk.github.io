@@ -443,6 +443,7 @@ a:focus {
 
 ul {
   list-style: none;
+  text-align: center;
 }
 
 ul.banner-social-buttons {
