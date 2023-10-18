@@ -173,6 +173,7 @@ a:focus {
         font-size: 25px;
     }
 }
+
 #projects .projects-item {
     right: 0;
     margin: 0 0 15px;
@@ -439,11 +440,6 @@ a:focus {
     outline: 0;
     color: {{ site.color.primary-dark }};
     background-color: {{ site.color.links }};
-}
-
-ul {
-  list-style: none;
-  text-align: center;
 }
 
 ul.banner-social-buttons {
