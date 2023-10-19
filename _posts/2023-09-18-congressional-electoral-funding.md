@@ -12,5 +12,7 @@ description: >
 
   In this project, the focus is to explore the relationship between funding that comes from special interest groups, in particular from the Super PACs made possible by the Citizens United decision, and the voting behavior of elected congress members who either receive their funding directly or benefit indirectly from their expenditures.
 
-  Data from the Federal Election Commission is pulled through their open API into a SQL database for analysis in Python and visualization in Tableau."
+  Data from the Federal Election Commission is pulled through their open API into a SQL database for analysis in Python and visualization in Tableau.
+
+  View the [Tableau presentation](https://public.tableau.com/app/profile/jonas.joehnk/viz/CongressionalFundingInterestsandVotingPatterns/IntroductionTemplate) and full [project repository](https://github.com/jjoehnk/FEC_Voting).
 ---
