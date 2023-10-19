@@ -153,11 +153,11 @@ a:focus {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 48px;
+    font-size: 56px;
 }
 
 .intro .intro-body .intro-text {
-    font-size: 24px;
+    font-size: 32px;
 }
 
 @media(min-width:767px) {
@@ -182,9 +182,9 @@ a:focus {
 
 #projects .projects-item .projects-link {
     display: block;
-    position: relative;
+    position: absolute;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 1000px;
 }
 
 #projects .projects-item .projects-link .caption {
