@@ -135,7 +135,7 @@ a:focus {
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0 100px 0;
+    padding: 100px 0;
     text-align: center;
     color: #fff;
     background: url(/img/intro-bg.jpg) no-repeat bottom center scroll;
@@ -261,13 +261,13 @@ a:focus {
     -webkit-box-shadow: none;
     box-shadow: none;
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: {{ site.color.links }};
+    color: #219ab3;
 }
 
 .projects-modal .modal-content h2 {
     margin: 0;
     font-size: 3em;
-    color: {{ site.color.links }};
+    color: #219ab3;
 }
 
 .projects-modal .modal-content img {
@@ -284,7 +284,7 @@ a:focus {
     right: 25px;
     width: 75px;
     height: 75px;
-    color: {{ site.color.primary-dark }};
+    color: #219ab3;
     background-color: transparent;
     cursor: pointer;
 }
